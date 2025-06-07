@@ -1,7 +1,7 @@
 export const SvgTemplate = ({ className }: { className: string }) => {
   return (
     <div className={className}>
-      <svg width="450" height="300" viewBox="0 0 558 370" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg width="400" height="250" viewBox="0 0 558 370" fill="none" xmlns="http://www.w3.org/2000/svg" className="">
         <g clip-path="url(#clip0_2_1237)">
           <path d="M267.287 304.382C268.055 304.254 268.439 304.125 269.207 304.51V305.151L268.311 305.663C267.799 305.791 267.287 305.791 266.775 305.663L266.647 305.023L267.287 304.382Z" fill="#9DB8B3" />
           <path d="M261.783 305.022L263.447 304.894L263.959 305.407L263.703 306.432L261.911 306.689L261.527 306.048L261.783 305.022Z" fill="#CACECB" />
